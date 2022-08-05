@@ -1,0 +1,15 @@
+#google_translate_element{
+    display: none;
+}
+
+#custom-select {
+    width: 500px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+
+.my-wrapper {
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column-reverse;
+}
